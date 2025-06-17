@@ -1,0 +1,16 @@
+{
+  "matchup": {
+    "home_team": "Chicago Bulls",
+    "away_team": "Philadelphia 76ers"
+  },
+  "prediction": {
+    "home_win_probability": 0.6315999999999999,
+    "predicted_winner": "Chicago Bulls"
+  },
+  "analysis": {
+    "predicted_winner": "Chicago Bulls",
+    "win_probability": 63.16,
+    "confidence_level": "moderate",
+    "summary": "The statistics slightly favor Chicago Bulls."
+  }
+}

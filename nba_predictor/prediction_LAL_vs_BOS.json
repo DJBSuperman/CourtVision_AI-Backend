@@ -1,0 +1,16 @@
+{
+  "matchup": {
+    "home_team": "Los Angeles Lakers",
+    "away_team": "Boston Celtics"
+  },
+  "prediction": {
+    "home_win_probability": 0.6315999999999999,
+    "predicted_winner": "Los Angeles Lakers"
+  },
+  "analysis": {
+    "predicted_winner": "Los Angeles Lakers",
+    "win_probability": 63.16,
+    "confidence_level": "moderate",
+    "summary": "The statistics slightly favor Los Angeles Lakers."
+  }
+}
